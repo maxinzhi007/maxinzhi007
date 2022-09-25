@@ -1,5 +1,4 @@
 # HI. I am **Leo Ma** 😊
-I graduated in 11th Grade in KMC private high school in Mandalay.🎉  
 I have learned Web programming about **two years**.
 I am now a web front-end developer and now I am 20 years old.😃  
 
