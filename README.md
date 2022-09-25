@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @maxinzhi007
-- 👀 I’m interested in programming and learning everything that I am interesting in.
-- 🌱 I’m currently learning Progressive Web App.
+# HI. I am **Leo Ma** 😊
+I graduated in 11th Grade in KMC private high school in Mandalay.🎉  
+I have learned Web programming about **two years**.
+I am now a web front-end developer and now I am 20 years old.😃  
 
-<!---
-maxinzhi007/maxinzhi007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My skills:  
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,sass,webpack,vue,vite,git,github,)](https://skillicons.dev)
+
+I also have experience on [vue-cli](https://cli.vuejs.org/), [VueX](https://vuex.vuejs.org/), [Vue-Router](https://router.vuejs.org/), [Workbox](https://developer.chrome.com/docs/workbox/), [PWA](https://web.dev/progressive-web-apps/).  
+
+Let's keep learning!🤠
