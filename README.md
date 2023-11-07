@@ -1,6 +1,6 @@
 # HI. I am **Nay Lin Tun** 
 I have learned Web programming about **1.6 years**.
-I am now a web front-end developer and now I am 21 years old.  
+I am now a web front-end developer and 21 years old.  
 
 ## My skills:  
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
