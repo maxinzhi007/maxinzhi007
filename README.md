@@ -1,5 +1,5 @@
 # HI. I am **Nay Lin Tun** 
-I have learned Web programming about **two years**.
+I have learned Web programming about **1.6 years**.
 I am now a web front-end developer and now I am 21 years old.  
 
 ## My skills:  
